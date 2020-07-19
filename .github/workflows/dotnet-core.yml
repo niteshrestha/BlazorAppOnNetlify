@@ -22,7 +22,7 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Publish
-      run: dotnet public -c Release --no-build -o release
+      run: dotnet publish -c Release --no-build -o release
     - name: Push to Netlify
       uses: netlify/actions/cli@master
       env:
