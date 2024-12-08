@@ -1,9 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30309.148
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppOnNetlify", "BlazorAppOnNetlify\BlazorAppOnNetlify.csproj", "{FDF5591A-7B3D-4815-BD97-C104BB936161}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppOnNetlify", "BlazorAppOnNetlify\BlazorAppOnNetlify.csproj", "{05352BDF-7328-4A95-8CCE-B9F03A5002D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FDF5591A-7B3D-4815-BD97-C104BB936161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FDF5591A-7B3D-4815-BD97-C104BB936161}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FDF5591A-7B3D-4815-BD97-C104BB936161}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FDF5591A-7B3D-4815-BD97-C104BB936161}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {58112F96-D966-4C15-A244-36DF17594284}
+		{05352BDF-7328-4A95-8CCE-B9F03A5002D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05352BDF-7328-4A95-8CCE-B9F03A5002D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05352BDF-7328-4A95-8CCE-B9F03A5002D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05352BDF-7328-4A95-8CCE-B9F03A5002D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
